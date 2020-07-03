@@ -1,0 +1,22 @@
+{
+  "name": "timecount",
+  "version": "1.0.1",
+  "description": "简单的倒计时公共类",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forever-z-133/timecount-ts.git"
+  },
+  "keywords": [
+    "time count",
+    "setInterval",
+    "倒计时"
+  ],
+  "author": "forever-z-133",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forever-z-133/timecount-ts/issues"
+  },
+  "homepage": "https://github.com/forever-z-133/timecount-ts"
+}
